@@ -1,0 +1,2 @@
+module HerancaExercicio2 {
+}
